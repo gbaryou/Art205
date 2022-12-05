@@ -1,0 +1,289 @@
+"{
+ box-sizing: border-box;
+ font-family :read-write
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.nav ul{
+    margin: 0;
+    
+}
+.nav li {
+    display: inline;
+}    
+.nav a{
+    display: inline-block;
+    padding: .5em;
+    color: blueviolet;
+    text-decoration: none;
+}
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bolder;
+    border-bottom: 2px solid rgba(rgb(60, 45, 75))
+}
+.main-nav li{
+    padding: 0 5%;
+}
+.nav a:hover{
+    background-color: aqua;
+}
+.main-header{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/Church2.jpg");
+    background-size: cover;
+    padding-bottom: 30px;
+}
+.church-name{
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: fantasy;
+    font-weight: normal;
+    color: darkgoldenrod;
+}
+.church-name-large{
+    font-size: 9em;
+    
+}
+.content-section{
+    margin: 1em;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.section-header{
+    font-family: fantasy;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    font-size: 2.7em;
+}
+.banner{
+    height: 400px;
+    background-image: url(image/Congregation2.jpg) ;
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 0px;
+    padding: 12%;
+}
+.banner h2{
+      color: rgb(251, 255, 0);
+      font-weight: bold;
+      text-align: center;
+      font-size: 2.74m;
+      font-size: xx-large;
+}
+.banner h3{
+    color: greenyellow;
+      font-weight: bold;
+      font-size: x-large;
+      text-align: center;
+      font-size: 2.7em;
+}
+.new{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/logo.png");
+    background-size: cover;
+    padding-inline: 20px;
+}
+.week{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/Singing.jpg");
+    background-size: cover;
+    padding-block-start: 1em;
+}
+.brand-nav{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/Teaching.jpg");
+    background-size: cover;
+    padding-block-start: 1em;
+}
+
+.brand-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bolder;
+    border-bottom: 2px solid rgba(rgb(60, 45, 75))}
+.brand-nav li{
+    padding: 0 5%;
+}
+.nav a:hover{
+    background-color: aqua;
+}
+.john-nav{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/service.jpg");
+    background-size: cover;
+    padding-block-start: 1em;
+}
+.john-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bolder;
+    border-bottom: 2px solid rgba(rgb(60, 45, 75))}
+.john-nav li{
+    padding: 0 5%;
+}
+.nav a:hover{
+    background-color: aqua;
+}
+
+.main-sectionpage{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/Bible2.jpg");
+    background-size: cover;
+    padding-bottom: 30px;
+}
+.church-place{
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: fantasy;
+    font-weight: normal;
+    color: darkgoldenrod;
+}
+.church-place-large{
+    font-size: 9em;
+    
+}
+.content-width{
+    margin: 1em;
+}
+.width{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+.section-page{
+    font-family: fantasy;
+    font-weight: bold;
+    color: rgb(27, 15, 196);
+    text-align: center;
+    font-size: 2.7em;
+}
+.bless{
+        height: 800px;
+        padding-top: 70px;
+        background-image: url(image/logo.png) ;
+        background-size: cover;
+        font-family: unset;
+        margin-top: 0px;
+        padding: 19%;
+    }
+    .bless form{
+        color: rgb(12, 211, 12);
+        font-weight: bolder;
+        text-align: center;
+  }
+  .bless-nav{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/Interaction.jpg");
+    background-size: cover;
+    padding-block-start: 1em;
+}
+  .bless-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bolder;
+    border-bottom: 2px solid rgba(rgb(60, 45, 75))}
+
+    .romans-nav{
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("image/Waving2.jpg");
+    background-size: cover;
+    padding-block-start: 1em;
+}
+.romans-nav li{
+    padding: 0 5%;
+}
+.nav a:hover{
+    background-color: aqua;
+}
+.romans-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bolder;
+    border-bottom: 2px solid rgba(rgb(60, 45, 75))}
+.romans-nav li{
+    padding: 0 5%;
+}
+.nav a:hover{
+    background-color: aqua;
+}
+.footer{
+    color: blue;
+    text-align: center;
+    font-size: 2.0em;
+    font-weight: bolder;
+    border-bottom: rgb(228, 10, 10);
+
+}
+.home-church-large{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 14px;
+    border-radius: 50%;
+}
+.main footer{
+    background-color: rgb(11, 26, 26);
+    color: chartreuse;
+    padding: .25em 0;
+}
+.main-footer-container{
+      display: flex;
+      align-items: center;
+}
+.main-footer-container ul{
+       flex-grow: 1;
+       text-align: end;
+}
+.footer-nav li{
+    padding: 0 .5em;
+}
+.footer-nav img{
+    width: 30px;
+    height: 30px;
+}
+.mark{
+    height: 400px;
+    background-image: url(image/Happiness.jpg) ;
+    background-size: cover;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 0px;
+    padding: 12%;
+} 
+.mark h3{
+    color: rgb(255, 106, 47);
+      font-weight: bold;
+      font-size: x-large;
+      text-align: center;
+      font-size: 2.7em;
+}
+.james{
+    height: 400px;
+    background-image: url(image/minitration.JPG) ;
+    background-size: cover;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 0px;
+    padding: 12%;
+} 
+.james h2{
+    color: purple;
+      font-weight: bold;
+      font-size: x-large;
+      text-align: center;
+      font-size: 3.7em;
+      padding-top: 70px;
+}
+.luke iframe{
+    float: right;
+    margin: 10px;
+}
